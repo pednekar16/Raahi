@@ -6,9 +6,9 @@ html{ scroll-behavior: smooth; }
 
 .row{ margin: 0!important; }
 
-.nav_style{ background-color: #542E91!important;  }
+.nav_style{ background-color: #FFFFFF!important;  }
 
-.nav_style a{ color: white; }
+.nav_style a{ color: #542E91; }
 
 .main_header{  height: 450px; 
 	/*background-color: green; */
